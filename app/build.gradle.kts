@@ -10,9 +10,9 @@ android {
     defaultConfig {
         applicationId = "com.example.myrecyclerview"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
-        versionName = "1.0"
+        versionName = "0.0.1 Apla Beta Test"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
